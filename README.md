@@ -12,7 +12,7 @@ I volunteered to provide UI improvement suggestions for a client’s website:
 
 ### Suggestions implemented:
 
--added *Dark Mode* 
+- added *Dark Mode* 
 - Aligned the 3 main buttons evenly for better layout
 - Removed unnecessary `border-top` in cards
 
