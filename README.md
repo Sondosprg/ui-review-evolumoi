@@ -25,6 +25,10 @@ I volunteered to provide UI improvement suggestions for a client’s website:
 
 -> This was a free contribution, based on my current skills in HTML & CSS.
 
+## Note : 
+A video has been added and some main buttons have been improved.
+
+
 -----------
 In Arabic :
 ------------
@@ -51,3 +55,7 @@ In Arabic :
 - إضافة فيديو توضيحي بجودة صوت وصورة عالية.
 
  -> هذه المساهمة كانت مجانية**، وجاءت ضمن ممارستي لما أتعلمه حالياً في HTML و CSS.
+
+ ## ملاحظة:
+ تمت إضافة فيديو وتحسين بعض الأزرار الرئيسية.
+
